@@ -3,4 +3,3 @@
    IP address is an address assigned to any computer (including servers) to identify it on a given network. A DNS address is a Domain Name Service which is used to convert alphabetic references into a server's IP address generally for hosting services.
    An HTTP cookie is a small piece of data sent from a website and stored on the user's computer by the user's web browser while the user is browsing
     protocol, domain, path and file.
-    
