@@ -1,0 +1,41 @@
+body {
+  background-color: rgb(51, 255, 255);
+  padding: 35;
+  text-align: center;
+  font-style: Bold;
+  font-size: 70;
+  color: green;
+}
+.container {
+    color: aqua;
+}
+#box-one {
+    font-style: normal;
+    background-color: lightblue;
+    text-align: center;
+    font-size: 40
+}
+#box-two {
+    font-style: normal;
+    background-color: aquamarine;
+    text-align: center;
+    font-size: 40
+}
+#box-three {
+    font-style: normal;
+    background-color: deepskyblue;
+    text-align: center;
+    font-size: 40
+}
+#box-four {
+    font-style: normal;
+    background-color: springgreen;
+    text-align: center;
+    font-size: 40
+}
+#box-five {
+    background-color: salmon;
+    text-align: center;
+    font-style: normal;
+    font-size: 40
+}
