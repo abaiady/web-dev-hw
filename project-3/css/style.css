@@ -66,7 +66,7 @@ a {
   text-align: left;
 }
 h1 {
-  background-color: rgba(255,255,250);
+  background-color: rgba(255,255,250,.2);
   border: 5px solid #FFFFFF;
   color: #000000;
   font-size: 3em;
