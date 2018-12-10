@@ -67,7 +67,7 @@ a {
 }
 h1 {
   background-color: rgba(255,255,250,.2);
-  border: 5px solid #606060;
+  border: 10px solid #606060;
   color: #A80000;
   font-size: 3em;
   text-transform: uppercase;
@@ -126,7 +126,7 @@ li {
   background-color: #00ABFF;
   border: 5px solid transparent;
   border-radius: 10%;
-  color: #000000;
+  color: #606060;
   font-weight: bold;
 }
 .assignment-links a:hover {
