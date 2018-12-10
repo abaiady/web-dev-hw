@@ -1,7 +1,7 @@
 /*------
 | FONTS |
 -------*/
-@import url('https://fonts.googleapis.com/css?family=Space+Mono:400,700');
+@import url('https://fonts.googleapis.com/css?family=Oswald');
 
 
 /*-------------------
@@ -16,7 +16,7 @@ html {
 }
 body {
   width: inherit;
-  font-family: 'Space Mono', monospace;
+  font-family: 'Oswald', sans-serif;
   margin: 0;
 }
 a {
